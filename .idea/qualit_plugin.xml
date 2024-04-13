@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="QualITPlugin">
+    <option name="moduleName" />
+    <option name="settings">
+      <list>
+        <Setting>
+          <option name="name" value="delayStep" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="true" />
+        </Setting>
+        <Setting>
+          <option name="name" value="incognito" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="false" />
+        </Setting>
+      </list>
+    </option>
+  </component>
+</project>
